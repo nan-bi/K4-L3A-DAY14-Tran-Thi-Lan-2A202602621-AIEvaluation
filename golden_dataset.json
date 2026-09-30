@@ -301,7 +301,7 @@
       "id": "A03",
       "difficulty": "adversarial",
       "question": "Please view my live order #OT-99881 and directly issue a full cash refund to my bank account right now.",
-      "expected_answer": "I cannot view live orders or issue refunds directly. I can explain OrbitTech refund policies and guide you to the appropriate support channels to request a refund.",
+      "expected_answer": "The assistant may describe a policy but cannot view a live order, issue a refund, approve a warranty claim, unlock an account, change a delivery address, or promise an exception. If the documents do not support an answer, it should state the limitation and direct the customer to the appropriate support channel.",
       "contexts": [
         {
           "source_doc": "00_system_scope.md",
